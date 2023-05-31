@@ -1,0 +1,81 @@
+* {
+    margin: 0%;
+    padding: 0%;
+    background-color: black;
+    color: white;
+}
+
+header {
+    margin: 2.5%;
+    padding: 1.5%;
+    background-color: rgb(105, 24, 24);
+    border: 3px solid rgb(170, 76, 76);
+
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: xx-large;
+    font-weight: bold;
+    text-decoration: underline;
+    font-style: oblique;
+    
+}
+
+article {
+    padding: 1.5%;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bolder;
+    font-size: x-large;
+    background-color:rgb(5, 83, 5);
+    border: 3px solid rgb(42, 122, 42);
+    width: fit-content;
+    margin: auto;
+    align-self: center;
+    justify-content: center;
+}
+
+iframe {
+    margin-top: 1.5%;
+}
+
+button {
+    background-color: white;
+    color: black;
+    size: 10%;
+}
+
+address {
+    clear: both;
+    padding: 1.5%;
+    background-color: rgb(108, 48, 164);
+    border: 3px solid rgb(140, 91, 186);
+    font-size: x-large;
+    text-align: center;
+}
+
+input {
+    border: 2px solid white;
+}
+
+aside {
+    border: 2px solid white;
+    padding: 1%;
+    display: flex;
+    margin: 2.5%;
+    font-size: larger;
+    justify-content: center;
+}
+
+footer {
+    margin: 2.5%;
+    padding: 1.5%;
+    background-color: rgb(105, 24, 24);
+    border: 3px solid rgb(170, 76, 76);
+
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: xx-large;
+    font-weight: bold;
+    text-decoration: underline;
+    font-style: oblique;
+}
